@@ -41,8 +41,8 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```sh
-    git clone <YOUR_GIT_URL>
-    cd <YOUR_PROJECT_DIRECTORY>
+    git clone https://github.com/D-A-R-K-999/Crypto_Chat_Stream
+    cd Crypto_Chat_Stream
     ```
 
 2.  **Install frontend dependencies:**
