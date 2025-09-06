@@ -2,6 +2,7 @@
 
 This is a real-time chat application that provides end-to-end encryption (E2EE) for all messages. It's built with a React frontend and a Python backend, ensuring that only the sender and the intended recipient can read the message content.
 
+
 ## Features
 
 - **End-to-End Encryption (E2EE):** Messages are encrypted on the sender's device and decrypted on the recipient's device. The server only relays the encrypted data and cannot read the message content.
